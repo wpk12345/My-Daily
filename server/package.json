@@ -1,0 +1,22 @@
+{
+  "name": "my-daily",
+  "version": "1.0.0",
+  "description": "Personal App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpk12345/My-Daily.git"
+  },
+  "author": "William King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpk12345/My-Daily/issues"
+  },
+  "homepage": "https://github.com/wpk12345/My-Daily#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
