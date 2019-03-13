@@ -4,7 +4,8 @@
   "description": "Personal App",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,9 @@
   },
   "homepage": "https://github.com/wpk12345/My-Daily#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0"
   }
 }
